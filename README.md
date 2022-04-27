@@ -1,2 +1,2 @@
-# muffin
-The Fast, Intuitive, iNtegrated front-end to mufpkg
+# mffn
+The Fast, iNtegrated front-end to mufpkg
