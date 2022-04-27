@@ -1,2 +1,2 @@
 # mffn
-The Fast, iNtegrated front-end to mufpkg
+The Fast, iNtegrated front-end to mfpkg
